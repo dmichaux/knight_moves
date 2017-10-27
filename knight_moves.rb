@@ -1,5 +1,4 @@
 # Calculates and displays shortest path from any square to any square
-
 module Knight
 
 	def self.move_knight(start, goal)
