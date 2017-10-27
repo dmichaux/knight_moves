@@ -67,7 +67,6 @@ module Knight
 end
 
 Knight.move_knight([1, 1], [8, 8]) # =>
-
 # You went from [1, 1] to [8, 8] in 6 moves:
 # [1, 1]
 # [2, 3]
